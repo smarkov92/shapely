@@ -1,0 +1,4 @@
+github.com/ernestosuarez/itertools v0.0.0-20190516153236-40a02c159e7b h1:jfqcM/m7Rt6wR6caX7TaRk5tHWCz5HRq+kNCPSNSKTo=
+github.com/ernestosuarez/itertools v0.0.0-20190516153236-40a02c159e7b/go.mod h1:WzH8PFd6m6UcRNbYXLAjgjyvwE5EqBKwTYosDoUDG/Q=
+github.com/gocarina/gocsv v0.0.0-20220823132111-71f3a5cb2654 h1:Sk9pCo4kBYVtDKJvh66DuvFDDNMH1CwnakCKMB/2A1U=
+github.com/gocarina/gocsv v0.0.0-20220823132111-71f3a5cb2654/go.mod h1:5YoVOkjYAQumqlV356Hj3xeYh4BdZuLE0/nRkf2NKkI=
